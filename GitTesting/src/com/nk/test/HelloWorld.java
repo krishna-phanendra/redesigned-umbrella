@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello World 2 ! ");
 		System.out.println("updated in GIT Repository. ");
 		System.out.println("updated from GitTestingBranch1. ");
+		System.out.println("Testing Rebase in GitTestingBranch1. ");
 		System.out.println("Again updating from eclipse. ");
 	}
 }
