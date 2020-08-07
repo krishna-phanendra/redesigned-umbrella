@@ -15,5 +15,6 @@ public class HelloWorld {
 		System.out.println("Again updating from eclipse 1. ");
 		System.out.println("GitTestingBranch2 updating from eclipse. ");
 		System.out.println("GitTestingBranch2 updating from eclipse 1. ");
+		System.out.println("local branch 1 commit. ");
 	}
 }
